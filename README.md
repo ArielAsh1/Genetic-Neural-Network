@@ -1,5 +1,4 @@
 # Genetic Algorithm for Neural Network Optimization
-This repository holds the code for Ex3 in Computational Biology Course.
 
 This Python program uses a genetic algorithm to optimize the structure and parameters of a neural network for binary string classification. The goal of the program is to achieve the highest possible classification accuracy on a test dataset.
 
